@@ -3,3 +3,4 @@
 # Assignment 1 TASK3:https://github.com/Akshithreddych/AIML2024/blob/main/2203A51659_task3.ipynb
 # WEEK2 ASSIGNMENT 1:https://github.com/Akshithreddych/AIML2024/blob/main/2203A51659_week2_assignment1.ipynb
 # WEEK3 ASSIGNMENT1: https://github.com/Akshithreddych/AIML2024/blob/main/2203A51659_w3ASS1.ipynb
+# ML ASSIGNMENT 1    :https://github.com/Akshithreddych/AIML2024/blob/main/2203A51659_ML_Asignment_1.ipynb
